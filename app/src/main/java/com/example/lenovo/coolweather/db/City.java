@@ -10,7 +10,7 @@ public class City extends DataSupport {
     public int id;
     public String cityName;
     public int cityCode;
-    public int cityId;
+    public int provinceId;
 
 
 }
